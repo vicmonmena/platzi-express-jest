@@ -1,5 +1,9 @@
 # Sobre el proyecto y Jest:
 
+## LICENCIA
+
+[MIT](https://spdx.org/licenses/MIT.html)
+
 ## HABILITAR ECMASCRIPT 6:
 
 ### Dependencies

@@ -1,14 +1,19 @@
 {
   "name": "express-jest-course",
   "version": "1.0.0",
-  "description": "",
+  "description": "Testing express app using Jest",
   "main": "server.js",
   "scripts": {
     "test": "jest",
     "start": "node server.js"
   },
-  "author": "",
-  "license": "ISC",
+  "author": {
+    "name": "Vicente Montaño Mena",
+    "email": "vicmonmena@gmail.com"
+  },
+
+  "homepage": "https://github.com/vicmonmena/platzi-express-jest",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.16.3"
   },
